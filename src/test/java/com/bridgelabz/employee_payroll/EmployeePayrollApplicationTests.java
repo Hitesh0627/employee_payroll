@@ -1,4 +1,4 @@
-package com.example.employee_payroll;
+package com.bridgelabz.employee_payroll;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
